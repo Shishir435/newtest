@@ -1,0 +1,10 @@
+public class JavaFirstCode{
+
+		public static void main(String [] args ){
+			System.out.println("Hello World");
+// javac <filenamewithetension>
+// java filename
+// filename should match with the class name
+			}
+
+}
